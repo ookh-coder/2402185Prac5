@@ -1,1 +1,10 @@
-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
+JSON
+{
+  "system": {
+  "system_title": "App 2.0",
+   "system_version": "2.5"
+  },
+  "settings": {
+    "status": "WARNING"
+  }
+}
